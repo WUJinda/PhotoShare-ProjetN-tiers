@@ -17,7 +17,7 @@ For this, you will set up a web architecture allowing to
 
 ![HomePage](screenshots/home.jpg)
 ![Login](screenshots/login.jpg)
-![Comments](screenshots/comments.png)
+![Comments](screenshots/comments.jpg)
 
 ## Technical stack 
 
