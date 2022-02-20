@@ -30,6 +30,7 @@ Before run back-end, you need to configure `application.properties`, you need to
    
 Install vue.js   
 > `npm install vue`   
+
 Install vue-cli   
 > `npm install --global vue-cli`    
 
